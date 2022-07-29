@@ -1,7 +1,7 @@
 
 import Head from 'next/head';
 import Footer from '../permanent/footer';
-import Navbar from './../permanent/Navbar';
+import Navbar from '../permanent/Navbar';
 
 export default function Home() {
 
