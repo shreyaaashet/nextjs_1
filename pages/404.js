@@ -11,7 +11,7 @@ const NotFound = () => {
        },3000)
          
         
-    }, []);
+    }, [router]);
     return ( 
         <>
         NOT FOUND
